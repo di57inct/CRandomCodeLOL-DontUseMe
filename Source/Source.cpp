@@ -11,5 +11,5 @@ VOID main(VOID)
 	getchar();
 	
 	
-	
-}
+	return;
+};
