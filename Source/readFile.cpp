@@ -1,7 +1,7 @@
 
 VOID readFile(VOID)
 {
-	PCHAR random = (PCHAR)malloc(0xFF);
+	PCHAR random = (PCHAR)malloc(67658);
 
 	if (random)
 	{

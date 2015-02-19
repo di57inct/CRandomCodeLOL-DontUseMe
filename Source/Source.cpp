@@ -6,7 +6,7 @@ VOID main(VOID)
 {
 	PCHAR Welcome = "Hi.";
 	
-	printf("%s\n", Welcome);
+	printf("%s" "\n", Welcome);
 	
 	getchar();
 	
