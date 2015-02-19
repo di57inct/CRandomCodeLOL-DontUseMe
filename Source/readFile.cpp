@@ -1,3 +1,5 @@
+#include <Windows.h>
+#include <stdlib.h>
 
 VOID readFile(VOID)
 {
