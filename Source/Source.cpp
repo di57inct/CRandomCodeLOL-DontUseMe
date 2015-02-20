@@ -1,5 +1,5 @@
 #include <Windows.h>
-#include <stdio.h>
+#include <STDIO.h>
 #include <ConIO.h>
 
 VOID main(VOID)
