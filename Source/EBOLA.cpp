@@ -1,9 +1,9 @@
 
 
 #include <Windows.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
+#include <STDIO.h>
+#include <STDLib.h>
+#include <String.h>
 
 
 
